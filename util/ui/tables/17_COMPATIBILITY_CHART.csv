@@ -1,0 +1,37 @@
+﻿,Non-oxidizing mineral acids,Sulphuric Acid,Nitric acid,Organic Acids,Caustics,Ammonia,Aliphatic Amines,Alkanolamines,Aromatic Amines,Amides,Organic Anhydrins,Isocyanates,Vinyl Acetate,Acrylates,Substitutes Allyls,Alkylene Oxides,Epichlorohydrin,Ketones,Aldehydes,"Alcohols, Glycols","Phenols, Cresols",Caprolactam Solution
+Non-oxidizing mineral acids,,X,,,X,X,X,X,X,X,X,X,X,,,X,X,,,,,
+Sulphuric Acid,X,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Nitric Acid,,X,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,
+Organic Acids,,X,,,X,X,X,X,,,,X,,,,X,X,,,,,
+Caustics,X,X,X,X,,,,,,,X,X,,,,X,X,,X,X,X,X
+Ammonia,X,X,X,X,,,,,,X,X,X,X,,,X,X,,X,,,
+Aliphatic Amines,X,X,X,X,,,,,,,X,X,X,X,X,X,X,X,X,X,X,X
+Alkanolamines,X,X,X,X,,,,,,,X,X,X,X,X,X,X,,X,,,
+Aromatic Amines,X,X,X,,,,,,,,X,X,,,,,,,X,,,
+Amides,X,X,X,,,X,,,,,,X,,,,,,,,,X,
+Organic Anhydrides,X,X,X,,X,X,X,X,X,,,,,,,,,,,,,
+Isocyanates,X,X,X,X,X,X,X,X,X,X,,,,,,,,,,X,,X
+Vinyl Acetate,X,X,X,,,X,X,X,,,,,,,,,,,,,,
+Acrylates,,X,X,,,,X,X,,,,,,,,,,,,,,
+Substitute allyls,,X,X,,,,X,X,,,,,,,,,,,,,,
+Alkylene oxides,X,X,X,X,X,X,X,X,,,,,,,,,,,,,,
+Epichlorohydrin,X,X,X,X,X,X,X,X,,,,,,,,,,,,,,
+Ketones,,X,X,,,,X,,,,,,,,,,,,,,,
+Aldehydes,,X,X,,X,X,X,X,X,,,,,,,,,,,,,
+"Alcohols, Glycols",,X,X,,X,,X,,,,,X,,,,,,,,,,
+"Phenols, creosols",,X,X,,X,,X,,,X,,,,,,,,,,,,
+Caprolactam Solution,,X,,,X,,X,,,,,X,,,,,,,,,,
+Olefins,,X,X,,,,,,,,,,,,,,,,,,,
+Paraffins,,,,,,,,,,,,,,,,,,,,,,
+Aromatic Hydrocarb.mix.,,,X,,,,,,,,,,,,,,,,,,,
+Misc. Hydrocarb. mix.,,,X,,,,,,,,,,,,,,,,,,,
+Esters,,X,X,,,,,,,,,,,,,,,,,,,
+Vinyl Halides,,,X,,,,,,,,,,,,,,,,,,,X
+Halogenated Hydrocarbons,,,,,,,,,,,,,,,,,,,,,,
+Nitriles,,X,,,,,,,,,,,,,,,,,,,,
+Carbon Disulfide,,,,,,,X,X,,,,,,,,,,,,,,
+Sulpalane,,,,,,,,,,,,,,,,,,,,,,
+Glycol Ethers,,X,,,,,,,,,,X,,,,,,,,,,
+Ethers,,X,X,,,,,,,,,,,,,,,,,,,
+Nitrocompounds,,,,,X,X,X,X,X,,,,,,,,,,,,,
+Misc. Water Solutions,,X,,,,,,,,,,X,,,,,,,,,,
